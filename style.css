@@ -182,7 +182,10 @@ font-weight: 800;
 .flower-title span{
     color: white;
 }
-footer p ,h4{
+footer p , h4{
     color: gainsboro;
 
+}
+.banner-title span{
+    color: #f52c57;
 }
